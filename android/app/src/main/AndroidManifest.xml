@@ -2,7 +2,7 @@
     <application
         android:label="manzil"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/manzil_tilawat">
         <activity
             android:name=".MainActivity"
             android:exported="true"
